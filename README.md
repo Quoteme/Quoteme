@@ -10,7 +10,7 @@ I work at universities and hospitals across Germany, doing research in topology 
 
 **[happel.ai](https://happel.ai)** -- my blog: math, CS, security research, and more
 
-**[Consultation](https://happel.ai/consultation.html)** -- I offer consultation services and am always happy to help out if anyone needs me. Feel free to reach out!
+**[Consultation](https://happel.ai/consultation.html)** -- I offer "consultation services" (I prefer to call it "let me help you - services" and am always happy to help out if anyone needs me. Feel free to reach out!
 
 ---
 
@@ -74,6 +74,6 @@ I work at universities and hospitals across Germany, doing research in topology 
 
 This and more on my [blog](https://happel.ai).
 
-**Get in touch:** Visit my [blog](https://happel.ai) -- Book a [consultation](https://happel.ai/consultation.html) -- Find me on [LinkedIn](https://www.linkedin.com/in/luca-happel-56607925a/)
+**Get in touch:** Visit my [blog](https://happel.ai) --  Do you [need help?](https://happel.ai/consultation.html) -- Find me on [LinkedIn](https://www.linkedin.com/in/luca-happel-56607925a/)
 
 </div>
