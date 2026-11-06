@@ -17,11 +17,9 @@ I work at universities and hospitals across Germany, doing research in topology 
 </div>
 
 <div align="center">
-
 <a href="https://happel.ai">
-<img style="display: block" width=500 src="website_screenshot.png" alt="My blog — happel.ai"/>
+<img style="display: block" width=500 src="https://github.com/user-attachments/assets/fa84f034-a68b-440b-8a5e-7d33dc9ac660" alt="My blog — happel.ai"/>
 </a>
-
 </div>
 
 <br/>
